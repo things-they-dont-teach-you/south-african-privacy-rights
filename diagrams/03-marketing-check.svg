@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Is this marketing message allowed?</title>
+  <desc id="d">A company sends you marketing by call, SMS, email or WhatsApp. Did you give it consent? If yes, it is allowed until you withdraw consent. If no, are you its customer, and did it give you a free, easy way to refuse when it took your details and in every message? If yes, it is allowed for its own similar products until you opt out. If no, it breaks POPIA, unless it is a single message asking for your consent. You can complain to the Information Regulator.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="420" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Is this marketing message allowed?</text>
+
+  <rect x="40" y="70" width="300" height="44" rx="8" fill="#2a78d6"/>
+  <text x="190" y="98" font-size="15" font-weight="600" fill="#ffffff" text-anchor="middle">A call, SMS, email or WhatsApp ad</text>
+  <line x1="190" y1="114" x2="190" y2="140" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="40" y="146" width="300" height="62" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="190" y="172" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Did you give that company</text>
+  <text x="190" y="192" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">your consent?</text>
+  <line x1="340" y1="177" x2="434" y2="177" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="387" y="169" font-size="13" fill="#52514e" text-anchor="middle">Yes</text>
+  <line x1="190" y1="208" x2="190" y2="236" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="200" y="227" font-size="13" fill="#52514e">No</text>
+
+  <rect x="40" y="242" width="300" height="62" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="190" y="268" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Are you its customer, and was</text>
+  <text x="190" y="288" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">every message easy to refuse?</text>
+  <line x1="340" y1="273" x2="434" y2="273" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="387" y="265" font-size="13" fill="#52514e" text-anchor="middle">Yes</text>
+  <line x1="190" y1="304" x2="190" y2="332" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="200" y="323" font-size="13" fill="#52514e">No</text>
+
+  <rect x="440" y="146" width="240" height="158" rx="8" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="560" y="194" font-size="18" font-weight="700" fill="#0b0b0b" text-anchor="middle">Allowed, for now</text>
+  <text x="560" y="222" font-size="14" fill="#0b0b0b" text-anchor="middle">Customers: only its own</text>
+  <text x="560" y="242" font-size="14" fill="#0b0b0b" text-anchor="middle">similar products.</text>
+  <text x="560" y="268" font-size="14" fill="#0b0b0b" text-anchor="middle">You can opt out or withdraw</text>
+  <text x="560" y="288" font-size="14" fill="#0b0b0b" text-anchor="middle">consent at any time.</text>
+
+  <rect x="40" y="338" width="640" height="56" rx="8" fill="#fbeaea" stroke="#d03b3b" stroke-width="2"/>
+  <text x="60" y="362" font-size="15" font-weight="600" fill="#0b0b0b">Not allowed, unless it's one message asking for your consent.</text>
+  <text x="60" y="382" font-size="14" fill="#0b0b0b">Say no, note the date, and complain to the Information Regulator if it continues.</text>
+  <text x="40" y="412" font-size="12" fill="#52514e">Source: POPIA section 69; Information Regulator Guidance Note on Direct Marketing. Not legal advice.</text>
+</svg>
