@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">How long an access request takes</title>
+  <desc id="d">Day 0: you send the request with proof of identity and keep a copy. By day 30 the organisation must answer. It may extend once, by up to 30 more days, and must tell you. If there is no answer by the deadline, it counts as a refusal. For a public body you then lodge an internal appeal; for a private body you complain to the Information Regulator or go to court.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="300" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">How long an access request takes</text>
+
+  <line x1="60" y1="120" x2="660" y2="120" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <circle cx="80" cy="120" r="8" fill="#2a78d6"/>
+  <circle cx="330" cy="120" r="8" fill="#2a78d6"/>
+  <circle cx="580" cy="120" r="8" fill="#e8a33d"/>
+  <text x="80" y="96" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle">Day 0</text>
+  <text x="330" y="96" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle">Day 30</text>
+  <text x="580" y="96" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle">Day 60 at most</text>
+
+  <text x="40" y="152" font-size="14" fill="#0b0b0b">You send it, with</text>
+  <text x="40" y="172" font-size="14" fill="#0b0b0b">proof of ID. Keep</text>
+  <text x="40" y="192" font-size="14" fill="#0b0b0b">a copy.</text>
+  <text x="330" y="152" font-size="14" fill="#0b0b0b" text-anchor="middle">They must answer, or</text>
+  <text x="330" y="172" font-size="14" fill="#0b0b0b" text-anchor="middle">tell you they're taking</text>
+  <text x="330" y="192" font-size="14" fill="#0b0b0b" text-anchor="middle">one extension.</text>
+  <text x="580" y="152" font-size="14" fill="#0b0b0b" text-anchor="middle">Latest date, if they</text>
+  <text x="580" y="172" font-size="14" fill="#0b0b0b" text-anchor="middle">extended.</text>
+
+  <rect x="40" y="214" width="640" height="56" rx="8" fill="#fbeaea" stroke="#d03b3b" stroke-width="2"/>
+  <text x="60" y="238" font-size="15" font-weight="600" fill="#0b0b0b">No answer by the deadline counts as a refusal.</text>
+  <text x="60" y="258" font-size="14" fill="#0b0b0b">Public body: internal appeal. Private body: Information Regulator or a court.</text>
+  <text x="40" y="292" font-size="12" fill="#52514e">Source: Information Regulator PAIA Guide. Not legal advice.</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Complaining to the Information Regulator</title>
+  <desc id="d">Four steps. One: write to the organisation's information officer first, where that makes sense. Two: gather evidence such as dates, screenshots and copies of your letters. Three: lodge the complaint on the Regulator's eService portal or email Form 5. Four: you get a reference number within 14 days, and the Regulator decides how to deal with it. If you can't write it yourself, the Regulator must help you.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="260" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Complaining to the Information Regulator</text>
+
+  <rect x="40" y="70" width="140" height="110" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="110" y="98" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle">1. Ask them</text>
+  <text x="110" y="122" font-size="13" fill="#0b0b0b" text-anchor="middle">Write to the</text>
+  <text x="110" y="140" font-size="13" fill="#0b0b0b" text-anchor="middle">information</text>
+  <text x="110" y="158" font-size="13" fill="#0b0b0b" text-anchor="middle">officer first</text>
+  <line x1="180" y1="125" x2="204" y2="125" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="210" y="70" width="140" height="110" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="280" y="98" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle">2. Evidence</text>
+  <text x="280" y="122" font-size="13" fill="#0b0b0b" text-anchor="middle">Dates, numbers,</text>
+  <text x="280" y="140" font-size="13" fill="#0b0b0b" text-anchor="middle">screenshots,</text>
+  <text x="280" y="158" font-size="13" fill="#0b0b0b" text-anchor="middle">your letters</text>
+  <line x1="350" y1="125" x2="374" y2="125" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="380" y="70" width="140" height="110" rx="8" fill="#2a78d6"/>
+  <text x="450" y="98" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">3. Lodge it</text>
+  <text x="450" y="122" font-size="13" fill="#ffffff" text-anchor="middle">eService portal,</text>
+  <text x="450" y="140" font-size="13" fill="#ffffff" text-anchor="middle">or Form 5</text>
+  <text x="450" y="158" font-size="13" fill="#ffffff" text-anchor="middle">by email</text>
+  <line x1="520" y1="125" x2="544" y2="125" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="550" y="70" width="130" height="110" rx="8" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="615" y="98" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle">4. Reference</text>
+  <text x="615" y="122" font-size="13" fill="#0b0b0b" text-anchor="middle">Within 14 days.</text>
+  <text x="615" y="140" font-size="13" fill="#0b0b0b" text-anchor="middle">Keep it for</text>
+  <text x="615" y="158" font-size="13" fill="#0b0b0b" text-anchor="middle">follow-ups</text>
+
+  <rect x="40" y="198" width="640" height="36" rx="8" fill="#fff4d6"/>
+  <text x="60" y="221" font-size="14" fill="#0b0b0b">Can't write it yourself? The Regulator must help you put it in writing.</text>
+  <text x="40" y="252" font-size="12" fill="#52514e">Source: Information Regulator complaints page and rules of procedure. Not legal advice.</text>
+</svg>
